@@ -1,0 +1,10 @@
+{
+    "content": "<@$USER> welcome, a carrier will be with you shortly",
+    "embeds": [
+        {
+            "title": "A carrier will be with you as soon as they are available.",
+            "description":"Please start getting kills for your slayer and stop at 10 kills before spawning the first boss. A carrier will ping you to let you know they can help.\nT4 Blaze t4: 7m per boss (5.5m per boss for 10+ bulk)\nFor info on what you need and what to do to survive, please read\nThank you for your cooperation. If you no longer require our assistance, say so in the ticket and a carrier will close it.",
+            "footer": { "text": "To close the ticket, enter $PREFIXclose"}
+        }
+    ]
+}
